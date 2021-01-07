@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trade system on Christian Hess</title>
+    <link>https://blog.hess.dev/tags/trade-system/</link>
+    <description>Recent content in trade system on Christian Hess</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.hess.dev/tags/trade-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building an Exchange in Rust - Part 1</title>
+      <link>https://blog.hess.dev/posts/exchange-part1/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hess.dev/posts/exchange-part1/</guid>
+      <description>How I designed and architected my exchange software.</description>
+    </item>
+    
+  </channel>
+</rss>
